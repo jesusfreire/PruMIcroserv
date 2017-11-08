@@ -1,7 +1,7 @@
 		    Java/CORBA LDAP Schema Tools
 		 	   February 29, 2000
 
-
+swwweded
 This note describes the tools for creating schema entries for storing
 Java and CORBA objects, and for updating existing directory entries
 that use the now obsolete draft-ryan-java-schema-00.txt and
